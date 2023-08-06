@@ -7,6 +7,7 @@ import static com.codeborne.selenide.Selenide.sleep;
 
 public class yandex_test {
     void yandexTest(){
+        //TO DO IMPLEMENT!!!
         sleep(50000);
 
     }
