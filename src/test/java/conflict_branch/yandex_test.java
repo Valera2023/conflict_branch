@@ -7,6 +7,7 @@ import static com.codeborne.selenide.Selenide.sleep;
 
 public class yandex_test {
     void yandexTest(){
+        open("https://dzen.ru");
         sleep(50000);
 
     }
